@@ -4,7 +4,7 @@ A playful English–Hebrew vocabulary trainer for children. Each child has their
 
 The interface is in Hebrew (RTL).
 
-> 🤖 **Built with AI:** I came up with the idea and the features, generated the code with an AI coding assistant, and tested the app. I built it for real-world use with my family, not as a study project.
+> 🤖 **Built with AI:** I came up with the idea and the features, generated the code with an AI coding assistant, and tested the app. I built it for real-world use, not as a study project.
 
 ---
 

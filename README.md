@@ -4,6 +4,8 @@ A playful English–Hebrew vocabulary trainer for children. Each child has their
 
 The interface is in Hebrew (RTL).
 
+> 🤖 **Built with AI:** the code for this project was generated with an AI coding assistant.
+
 ---
 
 ## Features
